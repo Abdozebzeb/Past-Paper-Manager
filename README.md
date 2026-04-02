@@ -6,11 +6,25 @@ Built to save students from wasting hours digging through messy websites just to
 
 ---
 
+
 ## 🚀 Download Installer
 
 👉 **[Click here to download the installer](https://github.com/Abdozebzeb/Past-Paper-Manager/releases/download/V1.0.1_P0/pastpaper_manager_installer_v1.0.3_P0.exe)**
 
 > Install, open, and you're ready to go.
+
+⚠️ Important:
+Since this is a new opensource app and it's first release Microsoft Smart Screen Defender will Flag it (If you dont trust me you can rnn microsoft defender scan on it, it will result in "No Threats Found" 😔)
+
+| Smart Screen |
+| --- |
+| ![Smart Screen](https://github.com/user-attachments/assets/8f585e58-2d8d-4743-8b5e-5e31cb0cc7d7) |
+
+| MS Defender Result |
+| --- |
+| ![MS Defender Result](https://github.com/user-attachments/assets/6d613f9d-60ba-45fd-a31d-0e0bb6ff25f3) |
+
+
 
 ---
 

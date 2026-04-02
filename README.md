@@ -14,7 +14,7 @@ Built to save students from wasting hours digging through messy websites just to
 > Install, open, and you're ready to go.
 
 ⚠️ Important:
-Since this is a new opensource app and it's first release Microsoft Smart Screen Defender will Flag it (If you dont trust me you can rnn microsoft defender scan on it, it will result in "No Threats Found" 😔)
+Since this is a new opensource app and it's first release Microsoft Smart Screen Defender will Flag it (If you dont trust me you can run microsoft defender scan on it, it will result in "No Threats Found" 😔)
 
 | Smart Screen |
 | --- |

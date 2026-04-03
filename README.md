@@ -179,6 +179,7 @@ There’s definitely room for improvement, but it already does what most student
 * **Unified Exam Suite:** Side-by-side access to Question Papers and Marking Schemes within the app.
 * **Interactive MCQ Engine:** Real-time grading for Multiple Choice papers with instant feedback.
 * **Timed Examination Mode:** Built-in timer to simulate real-world exam conditions and pressure.
+* **Automated Component Weighting:** Smart grade calculation based on component weightings and official thresholds.
 
 ### Progress & Analytics
 * **Performance Tracking:** Detailed attempt history with recorded grades and completion times.

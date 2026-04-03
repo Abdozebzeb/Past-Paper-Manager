@@ -9,7 +9,7 @@ Built to save students from wasting hours digging through messy websites just to
 
 ## 🚀 Download Installer
 
-👉 **[Click here to download the installer](https://github.com/Abdozebzeb/Past-Paper-Manager/releases/download/V1.0.1_P0/pastpaper_manager_installer_v1.0.3_P0.exe)**
+👉 **[Click here to download the installer](http://github.com/Abdozebzeb/Past-Paper-Manager/releases/download/V1.0.4/pastpaper_manager_installer_v1.0.4.exe)**
 
 > Install, open, and you're ready to go.
 

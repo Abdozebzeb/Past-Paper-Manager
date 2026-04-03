@@ -168,12 +168,26 @@ There’s definitely room for improvement, but it already does what most student
 
 ---
 
-## 💡 Future Improvements
+## 💡 Future Roadmap & Improvements
 
-- Faster parallel downloads  
-- Smarter search / filters  
-- Better UI customization  
-- Automatic retry for failed downloads  
+### Performance & Core Logic
+* **Parallelized Downloads:** Implementing high-speed concurrent fetching for faster paper retrieval.
+* **Smart Search & Filters:** Advanced query system to find specific variants and years instantly.
+* **Resilient Downloader:** Automatic retry logic to handle unstable connections and failed downloads.
+
+### Integrated Study Tools
+* **Unified Exam Suite:** Side-by-side access to Question Papers and Marking Schemes within the app.
+* **Interactive MCQ Engine:** Real-time grading for Multiple Choice papers with instant feedback.
+* **Timed Examination Mode:** Built-in timer to simulate real-world exam conditions and pressure.
+
+### Progress & Analytics
+* **Performance Tracking:** Detailed attempt history with recorded grades and completion times.
+* **Daily Insights:** Visualized statistics to monitor daily paper volume and consistency.
+* **Smart Datesheets:** Fully personalized CIE timetables based on your specific subject codes.
+
+### UI & Accessibility
+* **Theme Engine:** Deep UI customization to tailor the study environment to your preference.
+* **Universal Support:** Expanding the ecosystem to macOS, iPadOS, iOS, and Android.
 
 ---
 
